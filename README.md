@@ -1,2 +1,3 @@
-# harmless_viruses
-A repository containing harmless viruses which I mostly use to annoy my teacher
+# Harmless Viruses
+**WARNING: Use this at your own risk. I shall not be held responsible for any damage to the computer or any other issue like you getting suspended from school**
+These viruses will most probably not cause much harm, but try at your own risk...
