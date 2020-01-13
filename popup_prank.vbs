@@ -1,0 +1,6 @@
+X=MsgBox("Error while opening computer. Do you wanna fix it?",1+64,"Computer") 
+X=MsgBox("Unable to fix this error. Do you wanna scan your computer?",3+48,"Computer Scan") 
+X=MsgBox("Your computer has been affected with virus. Do you wanna fix it?",3+16,"Virus Detected") 
+X=MsgBox("Unable to delete the virus",1+64,"Critical Error") 
+X=MsgBox("Your Computer is Hacked",1+64,"Hacked") 
+X=MsgBox("This was a prank! Your computer is running all right. Don't Worry",0+16,"You Got Fooled") 
